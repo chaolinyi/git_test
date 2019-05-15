@@ -1,5 +1,7 @@
-1. First write action.
+4. Forth write action.
 
 A: Hello, What are you "Nong Sha Lei"?
 
-B: Mei Nong Sha Ha.
+C: Said to B, Mei Nong Sha Ha.
+
+B: Hao Ba.
